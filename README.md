@@ -1,6 +1,6 @@
-# hello_world
+# TODOLIST WORKOFFICE APP PROJECT
 
-A new Flutter project created with https://flutlab.io
+TodoList WorkOffice App Project adalah sebuah project kolaborasi untuk membangun sebuah aplikasi berbasis android menggunakan flutter yang memiliki fungsi sebagai pengingat, memanage dan checklist aktivitas pegawai kantor agar lebih produktif dalam menjalani pekerjaan nya.
 
 ## Getting Started
 
