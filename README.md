@@ -13,10 +13,8 @@ Fitur:
 - Notifikasi
 - Sinkronisasi
 
-## Getting Started: FlutLab - Flutter Online IDE
+## Contributor Project Ini
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Discover a marketplace of ready-to-use Flutter projects https://flutlab.io/widgetbay
-- Join the discussion and conversation on https://flutlab.io/residents
-
-If you have some questions regarding FlutLab, you can ask on https://flutlab.io/faq
+- Ahmad Setiawan
+- Arif Dermawan
+- Zaed Muhtar Efendi
