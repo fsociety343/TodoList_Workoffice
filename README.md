@@ -7,7 +7,7 @@ TodoList WorkOffice App Project adalah sebuah project kolaborasi untuk membangun
 Aplikasi ini masih dalam pengembangan
 Fitur:
 
-- list checkbox
+- List Checkbox
 - Widget
 - Kalender
 - Notifikasi
